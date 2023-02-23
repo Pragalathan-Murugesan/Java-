@@ -1,0 +1,10 @@
+In the try block, we read the contents of the file using a BufferedReader, 
+and concatenate all the lines into a single string. 
+We then compare this string java with the input string using the java equals method. 
+If the strings are equal, we print a java is
+message saying that they match, not java is
+otherwise we print a message saying that they do not match.
+
+
+
+
